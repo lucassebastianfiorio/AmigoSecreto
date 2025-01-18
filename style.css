@@ -165,3 +165,8 @@ ul {
 .oculto {
     display: none;
 }
+
+#sortear:disabled {
+    background: #898989;
+    cursor: not-allowed;
+}
